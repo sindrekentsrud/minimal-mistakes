@@ -1,7 +1,7 @@
 ---
 layout: single
 title: <i class="fas fa-cubes"></i> Product Process
-permalink: /manual/steel_arrangement/
+permalink: /manual/steel-arrangement/
 author_profile: false
 sidebar:
   nav: "manual"

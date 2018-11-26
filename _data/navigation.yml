@@ -13,11 +13,11 @@ manual:
     - title: "Process"
       children:
         - title: "steel order"
-          url: /manual/steel_order/
+          url: /manual/steel-order/
         - title: "steel arrangement"
-          url: /manual/steel_arrangement/
+          url: /manual/steel-arrangement/
         - title: "steel item"
-          url: /manual/steel_item/
+          url: /manual/steel-item/
     - title: "visma"
       url: /manual/visma/
 

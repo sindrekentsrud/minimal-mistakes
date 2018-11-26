@@ -1,7 +1,7 @@
 ---
 layout: single
 title: <i class="fas fa-cube"></i> Item Process
-permalink: /manual/steel_item/
+permalink: /manual/steel-item/
 author_profile: false
 sidebar:
   nav: "manual"

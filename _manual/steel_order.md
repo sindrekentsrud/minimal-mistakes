@@ -1,7 +1,7 @@
 ---
 layout: single
 title: <i class="fas fa-file-alt"></i> steel order process
-permalink: /manual/steel_order/
+permalink: /manual/steel-order/
 author_profile: false
 sidebar:
   nav: "manual"
