@@ -1,12 +1,29 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    - title: "manual"
+      url: /manual/
+    - title: "knowledge"
+      url: /knowledge/
+    - title: "about"
+      url: /about/
+
+manual:
+    - title: "manual"
+      url: /manual/
+    - title: "Process"
+      children:
+        - title: "steel order"
+          url: /manual/process/steel_order/
+        - title: "steel arrangement"
+          url: /manual/sa/
+        - title: "steel item"
+          url: /manual/si/
+    - title: "visma"
+      url: /manual/visma/
+
+knowledge:
+    - title: "Welding"
+    - title: "Material"
+    - title: "Standard"
+    - title: "System theory"
+    - title: "Software"
