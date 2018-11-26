@@ -298,11 +298,11 @@ defaults:
       layout: single
       author_profile: true
   # Collections
-    collections:
-      knowledge:
-        output: true
-        permalink: /:collection/:path
-    collections:
-      manual:
-        output: true
-        permalink: /:collection/:path
+collections:
+  manual:
+    output: true
+    permalink: /:collection/:path/
+collections:
+  knowledge:
+    output: true
+    permalink: /:collection/:path/
