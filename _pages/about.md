@@ -1,7 +1,7 @@
 ---
 layout: splash
 classes: wide
-title: "About"
+title: "about"
 permalink: /about/
 author_profile: false
 ---
