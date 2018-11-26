@@ -1,11 +1,12 @@
 ---
 layout: single
-title: <i class="fas fa-cubes"></i> Product Process
+classes: wide
+title: <i class="fas fa-cubes"></i> Steel arrangement process
 permalink: /manual/steel-arrangement/
 author_profile: false
 sidebar:
   nav: "manual"
-toc: true
+toc: false
 toc_label: Index
 toc_icon: list-ol
 ---

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: <i class="fas fa-cube"></i> Item Process
+title: <i class="fas fa-cube"></i> Steel item process
 permalink: /manual/steel-item/
 author_profile: false
 sidebar:

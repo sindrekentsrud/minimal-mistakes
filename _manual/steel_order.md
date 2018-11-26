@@ -1,6 +1,6 @@
 ---
 layout: single
-title: <i class="fas fa-file-alt"></i> steel order process
+title: <i class="fas fa-file-alt"></i> Steel order process
 permalink: /manual/steel-order/
 author_profile: false
 sidebar:

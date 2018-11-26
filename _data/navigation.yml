@@ -1,24 +1,24 @@
 # main links
 main:
-    - title: "manual"
+    - title: "Manual"
       url: /manual/
-    - title: "knowledge"
+    - title: "Knowledge"
       url: /knowledge/
-    - title: "about"
+    - title: "About"
       url: /about/
 
 manual:
-    - title: "manual"
+    - title: "Manual"
       url: /manual/
     - title: "Process"
       children:
-        - title: "steel order"
+        - title: "Steel order"
           url: /manual/steel-order/
-        - title: "steel arrangement"
+        - title: "Steel arrangement"
           url: /manual/steel-arrangement/
-        - title: "steel item"
+        - title: "Steel item"
           url: /manual/steel-item/
-    - title: "visma"
+    - title: "Visma"
       url: /manual/visma/
 
 knowledge:
