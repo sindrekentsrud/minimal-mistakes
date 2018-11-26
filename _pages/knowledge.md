@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "OUR KNOWLEDGE"
+title: "knowledge"
 permalink: /knowledge/
 author_profile: false
 sidebar:

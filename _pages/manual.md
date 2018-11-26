@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "How we work"
+title: "manual"
 permalink: /manual/
 author_profile: false
 sidebar:
