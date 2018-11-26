@@ -1,6 +1,7 @@
 ---
 layout: single
-title: <i class="fas fa-cube"></i> Item Process
+classes: wide
+title: <i class="fas fa-desktop"></i> Visma
 permalink: /manual/visma/
 author_profile: false
 sidebar:
@@ -9,8 +10,10 @@ toc: true
 toc_label: Index
 toc_icon: list-ol
 ---
-# Visma
-Her kommer det til å stå ting om visma
-Kanskje litt mer
+# Establishing a new product
 
-Bare liten finpuss
+# Making a purchase order
+
+# Receiving goods
+
+# Finishing a procution order
