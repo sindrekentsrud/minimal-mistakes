@@ -297,12 +297,12 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # Collections
+
+# Collections
 collections:
   manual:
     output: true
     permalink: /:collection/:path/
-collections:
   knowledge:
     output: true
     permalink: /:collection/:path/
