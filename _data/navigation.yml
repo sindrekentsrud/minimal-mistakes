@@ -2,22 +2,22 @@
 main:
     - title: "Manual"
       url: /manual/
-    - title: "Knowledge"
-      url: /knowledge/
-    - title: "About"
-      url: /about/
+#    - title: "Knowledge"
+#      url: /knowledge/
+#    - title: "About"
+#      url: /about/
 
 manual:
     - title: "Manual"
       url: /manual/
-    - title: "Process"
-      children:
-        - title: "Steel order"
-          url: /manual/steel-order/
-        - title: "Steel arrangement"
-          url: /manual/steel-arrangement/
-        - title: "Steel item"
-          url: /manual/steel-item/
+#    - title: "Process"
+#      children:
+#        - title: "Steel order"
+#          url: /manual/steel-order/
+#        - title: "Steel arrangement"
+#          url: /manual/steel-arrangement/
+#        - title: "Steel item"
+#          url: /manual/steel-item/
     - title: "Visma"
       url: /manual/visma/
 
