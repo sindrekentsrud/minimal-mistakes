@@ -14,6 +14,4 @@ toc_icon: list-ol
 
 # Making a purchase order
 
-# Receiving goods
-
-# Finishing a procution order
+# Closing a procution order
