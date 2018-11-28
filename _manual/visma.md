@@ -1,6 +1,5 @@
 ---
 layout: single
-classes: wide
 title: <i class="fas fa-desktop"></i> Visma
 permalink: /manual/visma/
 author_profile: false
