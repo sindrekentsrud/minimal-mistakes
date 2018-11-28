@@ -11,9 +11,8 @@ toc_label: Index
 toc_icon: list-ol
 ---
 # Establishing a new product
+To establish a new product. bla bla bla
 
 # Making a purchase order
 
-# Receiving goods
-
-# Finishing a procution order
+# Closing a procution order
