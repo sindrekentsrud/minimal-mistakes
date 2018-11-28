@@ -11,7 +11,7 @@ toc_label: Index
 toc_icon: list-ol
 ---
 # Completion of production orders
-1. Open visma and navigate to Logistikk | *Lager* | Produksjon<sup>2</sup> ny
+1. Open visma and navigate to Logistikk -> *Lager* -> Produksjon<sup>2</sup> ny
 2. Locate your production order of choice in the **Hoveproduksjon** window
 3. Select your product of choice in the **Produseres på Hovedproduksjon - Hovedprodukt(er)** window
 4. Select the column to the right of *Reserver NÅ*{: style="color: green"} in the **Vareforbruk Hovedproduksjon (for valgt hovedprodukt)** window
