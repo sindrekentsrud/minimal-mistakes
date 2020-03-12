@@ -23,7 +23,7 @@ The goal of the machining process is to produce awesome looking parts that are w
 ### Supplier
 The main suppliers are:
 * Order process
-* Item process
+* Material process
 
 
 ---
@@ -38,8 +38,8 @@ Cards shall provide information regarding:
 * What amount does the customer want - quantity
 * Product routing
 
-#### Items
-The machining process shall receive all the neccessary items required to produce the component from the **Item** process.
+#### Materials
+The **Machining** process shall receive all the neccessary stock required to produce the component from the **Material** process.
 
 ---
 
@@ -48,40 +48,34 @@ The machining process shall receive all the neccessary items required to produce
 |--- Backlog
 |--- Requested
   |--- New requests
-  |--- Waiting for items
-  |--- Ready to start
+  |--- Waiting for materials
+  |--- Waiting for machining
 |--- In progress
-  |--- Welding
-  |--- Ready for inspection
+  |--- CAM
+  |--- Setup
+  |--- Machining
   |--- Inspection
-  |--- Ready for testing
-  |--- Testing
-  |--- Ready for external services
-  |--- External services
+  |--- Documentation
 |--- Done
 ```
 
 ---
 
 ### Outputs
-The expected output from the **Products** process consists of:
-* Products without any quality related issues regarding:
-  - Dimensions and parts - we are sure it will fit
+The expected output from the **Machining** process consists of:
+* Parts without any quality related issues regarding:
+  - Dimensions - we are sure it will fit
+  - Surface finish - we are sure our customers will be impressed
 * Documentation that validates that all requirements have been met regarding:
-  - Welding traceability
-    *we know how it was welded and by whom*
-  - Welding operator qualifications
-    *we know how to weld it*
-  - Non-destructive testing records
-    *we know that our welds are free of defects*
-  - Proof testing records
-    *we know our welds and materials will not fail*
-  - Surface treatment records
-    *we know that our product will endure*
+  - *Documentation to be agreed*
 
 ---
 
 ### Customers
-The main customer of the *Products* process is the downstream system *Assembly*.
+The main customers of the *Machining* process are the following:
+ - **Fit-Up** process
+ - **Welding** process
+ - **Assembly** sub-system
+ - **End-user** customers
 
 ---
