@@ -14,10 +14,19 @@ toc_icon: list-ol
 The goal of the machining process is to produce awesome looking parts that are within the specified tolerances in the most efficient way possible.
 
 ### Fundamental measurements
-* Throughput
-* Lead time
-* Cycle time
-* Flow efficiency
+**Throughput**
+Throughput (T) is the rate at which the system produces "goal units."
+T = S – TVC
+
+**Lead time**
+Lead time (L/T) is the time from when a customer need has been accepted into the process until that need has been fulfilled. L/T = Setup time (SU/T) + Cycle time (C/T) + Wasted time (W/T)
+
+**Cycle time**
+Cycle time (C/T) is the actual touch time needed to complete the work.
+For machining this is the time from when we push cycle start until the program is finished.
+
+**Flow efficiency**
+Flow efficiency is the ratio between value-adding time and the lead time required to complete a process. Value-adding is the time during which a person or a machine is actively working towards completion of a given target. Lead time is the frame between the order and delivery of the product. 
 
 ## SIPOC
 ### Supplier
