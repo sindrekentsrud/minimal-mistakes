@@ -12,6 +12,8 @@ manual:
       url: /manual/
     - title: "Process"
       children:
+        - title: "Machining"
+          url: /manual/machining/
         - title: "Steel order"
           url: /manual/steel-order/
         - title: "Steel arrangement"
