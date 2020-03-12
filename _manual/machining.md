@@ -3,7 +3,7 @@ layout: single
 classes: wide
 title: <i class="fas fa-cubes"></i> Machining process
 permalink: /manual/machining/
-author_profile: true
+author_profile: false
 sidebar:
   nav: "manual"
 toc: false
