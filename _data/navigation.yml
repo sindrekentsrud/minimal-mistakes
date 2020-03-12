@@ -2,8 +2,8 @@
 main:
     - title: "Manual"
       url: /manual/
-    - title: "Knowledge"
-      url: /knowledge/
+#    - title: "Knowledge"
+#      url: /knowledge/
     - title: "About"
       url: /about/
 
@@ -14,18 +14,10 @@ manual:
       children:
         - title: "Machining"
           url: /manual/machining/
-        - title: "Steel order"
-          url: /manual/steel-order/
-        - title: "Steel arrangement"
-          url: /manual/steel-arrangement/
-        - title: "Steel item"
-          url: /manual/steel-item/
-    - title: "Visma"
-      url: /manual/visma/
 
-knowledge:
-    - title: "Welding"
-    - title: "Material"
-    - title: "Standard"
-    - title: "System theory"
-    - title: "Software"
+# knowledge:
+#    - title: "Welding"
+#    - title: "Material"
+#    - title: "Standard"
+#    - title: "System theory"
+#    - title: "Software"
