@@ -1,6 +1,5 @@
 ---
 layout: single
-classes: wide
 title: <i class="fas fa-cubes"></i> Machining process
 permalink: /manual/machining/
 author_profile: false
@@ -26,7 +25,7 @@ Cycle time (C/T) is the actual touch time needed to complete the work.
 For machining this is the time from when we push cycle start until the program is finished.
 
 **Flow efficiency**
-Flow efficiency is the ratio between value-adding time and the lead time required to complete a process. Value-adding is the time during which a person or a machine is actively working towards completion of a given target. Lead time is the frame between the order and delivery of the product. 
+Flow efficiency is the ratio between value-adding time and the lead time required to complete a process. Value-adding is the time during which a person or a machine is actively working towards completion of a given target. Lead time is the frame between the order and delivery of the product.
 
 ## SIPOC
 ### Supplier
